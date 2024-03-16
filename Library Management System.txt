@@ -1,0 +1,23 @@
+                                                Library Management System
+
+
+This is a simple Java-based Library Management System designed to facilitate library operations such as book management, user management, book issuance, and book return.
+
+Features
+Add new books to the library inventory.
+Add new users to the system.
+Issue books to registered users.
+Allow users to return books.
+View available books in the library.
+View books issued by a specific user.
+View books returned by a specific user.
+View all users registered in the system.
+View all books in the library inventory.
+
+How to Use
+Clone the repository to your local machine.
+Compile the Java files using a Java compiler.
+Run the LibraryManagementSystem class to start the program.
+Follow the on-screen instructions to perform various library operations.
+Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
